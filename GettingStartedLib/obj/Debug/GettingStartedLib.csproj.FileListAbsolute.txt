@@ -1,0 +1,6 @@
+C:\Users\Administrator\documents\visual studio 2015\Projects\GettingStartedLib\GettingStartedLib\bin\Debug\GettingStartedLib.dll.config
+C:\Users\Administrator\documents\visual studio 2015\Projects\GettingStartedLib\GettingStartedLib\bin\Debug\GettingStartedLib.dll
+C:\Users\Administrator\documents\visual studio 2015\Projects\GettingStartedLib\GettingStartedLib\bin\Debug\GettingStartedLib.pdb
+C:\Users\Administrator\documents\visual studio 2015\Projects\GettingStartedLib\GettingStartedLib\obj\Debug\GettingStartedLib.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\documents\visual studio 2015\Projects\GettingStartedLib\GettingStartedLib\obj\Debug\GettingStartedLib.dll
+C:\Users\Administrator\documents\visual studio 2015\Projects\GettingStartedLib\GettingStartedLib\obj\Debug\GettingStartedLib.pdb

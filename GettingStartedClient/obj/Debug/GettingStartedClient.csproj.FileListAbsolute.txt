@@ -1,0 +1,6 @@
+C:\Users\Administrator\documents\visual studio 2015\Projects\GettingStartedLib\GettingStartedClient\bin\Debug\GettingStartedClient.exe.config
+C:\Users\Administrator\documents\visual studio 2015\Projects\GettingStartedLib\GettingStartedClient\bin\Debug\GettingStartedClient.exe
+C:\Users\Administrator\documents\visual studio 2015\Projects\GettingStartedLib\GettingStartedClient\bin\Debug\GettingStartedClient.pdb
+C:\Users\Administrator\documents\visual studio 2015\Projects\GettingStartedLib\GettingStartedClient\obj\Debug\GettingStartedClient.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\documents\visual studio 2015\Projects\GettingStartedLib\GettingStartedClient\obj\Debug\GettingStartedClient.exe
+C:\Users\Administrator\documents\visual studio 2015\Projects\GettingStartedLib\GettingStartedClient\obj\Debug\GettingStartedClient.pdb
